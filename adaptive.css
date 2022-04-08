@@ -84,7 +84,7 @@ body {
 
 .photo {
   border-radius: 50%;
-  transform: scale(0.75);
+  transform: scale(0.8);
   border: 2px double black;
   box-shadow: inset 60px 2px 2px grey;
   filter: grayscale(60%);
